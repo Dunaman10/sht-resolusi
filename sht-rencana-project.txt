@@ -1,3 +1,5 @@
 RENCANA PROJECT SAYA :
-- Web chattingan
+- Chatting
+  * Mobile
+  * Desktop
 - E-Commerce
