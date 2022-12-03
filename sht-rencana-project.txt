@@ -4,3 +4,4 @@ RENCANA PROJECT SAYA :
   * Desktop
   * Web
 - E-Commerce
+  * Fitur Checkout
