@@ -6,3 +6,4 @@ RENCANA PROJECT SAYA :
 - E-Commerce
   * Fitur Login
   * Fitur Pesan
+  * Fitur Checkout
