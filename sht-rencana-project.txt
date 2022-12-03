@@ -4,4 +4,6 @@ RENCANA PROJECT SAYA :
   * Desktop
   * Web
 - E-Commerce
+  * Fitur Login
+  * Fitur Pesan
   * Fitur Checkout
